@@ -15,7 +15,7 @@ compose-bom = "2025.01.01"
 compose-activity = "1.10.0"
 compose-navigation = "2.8.6"
 compose-material-motion = "2.0.1"
-compose-material-icons = "1.7.7"
+compose-material-icons = "1.7.8"
 compose-viewmodel = "2.8.7"
 
 kotlin-serialization-json = "1.8.0"
