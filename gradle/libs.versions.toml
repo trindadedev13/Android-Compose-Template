@@ -11,7 +11,7 @@ androidx-core-splashscreen = "1.0.1"
 androidx-core-ktx = "1.15.0"
 androidx-lifecycle-runtime-ktx = "2.8.7"
 
-compose-bom = "2025.01.01"  
+compose-bom = "2025.02.00"  
 compose-activity = "1.10.0"
 compose-navigation = "2.8.6"
 compose-material-motion = "2.0.1"
