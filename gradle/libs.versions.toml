@@ -12,7 +12,7 @@ androidx-core-ktx = "1.15.0"
 androidx-lifecycle-runtime-ktx = "2.8.7"
 
 compose-bom = "2025.02.00"  
-compose-activity = "1.10.0"
+compose-activity = "1.10.1"
 compose-navigation = "2.8.7"
 compose-material-motion = "2.0.1"
 compose-material-icons = "1.7.8"
